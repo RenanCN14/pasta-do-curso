@@ -1,0 +1,38 @@
+/*cometario
+*/
+/* h1{
+    color: blue;
+    font-size: 60px;
+    background: gray;
+}
+p{
+    font: 20px;
+    margin: 0 auto;
+    padding-left: 15px;
+} */
+header{
+    height: 100px;
+    border: 7px dashed red;
+
+    background-color: rgb(55, 100, 50);
+    background-image: url();
+}
+
+div, section{
+    width: 100px;
+    height: 100px;
+    margin: 20% auto;
+    border: 5px red solid;
+    border-top: double green;
+    box-sizing: border-box;
+    outline: yellow 4px solid;
+}
+span{
+    height: 100px;
+    width: 100px;
+    border: 1px solid green;
+    display: block;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+
