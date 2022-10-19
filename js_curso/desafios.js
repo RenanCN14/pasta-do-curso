@@ -24,4 +24,5 @@ function notas(valor){
         }
     console.log(nota)
 }
+
 notas(100)
